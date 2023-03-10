@@ -63,7 +63,7 @@ Please assign people to review once you've made your pull request
 | 4   | 3-4hrs       |
 | 5   | 4-5hrs       |
 | 6   | 5-6hrs       |
-| 7   | <6hrs        |
+| 7   | >6hrs        |
 
 ### Frontend
 *Tickets start in the 100's*
@@ -75,7 +75,7 @@ Please assign people to review once you've made your pull request
 | 104   | 3-4hrs       |
 | 105   | 4-5hrs       |
 | 106   | 5-6hrs       |
-| 107   | <6hrs        |
+| 107   | >6hrs        |
 
 ### Backend
 *Tickets start in the 200's*
@@ -87,4 +87,4 @@ Please assign people to review once you've made your pull request
 | 204   | 3-4hrs       |
 | 205   | 4-5hrs       |
 | 206   | 5-6hrs       |
-| 207   | <6hrs        |
+| 207   | >6hrs        |
