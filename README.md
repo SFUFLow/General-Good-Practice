@@ -25,7 +25,7 @@ Branches should be named like the following:
 Example: ```feature/setup-pages```
 
 ### Pull Requests
-Please make a pull request before committing to main branch :) 
+Please make a pull request into the `staging` branch. PM's will make final PR's into production/main.
 
 If I find out you brought down production/main, I'll give you a big fat ~~[Redacted]~~ hug <3
 
